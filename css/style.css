@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#infoAyuda {
+    display: none;
+    font-size: 10px;
+}
+
+#infoCuotas {
+    display: none;
+}
+
+.topBar {
+    color: white;
+}
+
+.logo {
+    margin-left: 15px;
+}
+
+.titulo {
+    color: whitesmoke;
+}
+
+.pie {
+    font-size: 10px;
+}
+
+.leyendaElegir, .leyendaSiNo, .leyendaCompletar {
+    font-size: 10px;
+    color: tomato;
+}
